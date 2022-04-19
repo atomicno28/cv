@@ -1,0 +1,22 @@
+
+body
+{
+  background-color:#ddedea;
+
+}
+hr
+{
+  border-style: none;
+  border-top-style:dotted;
+  border-color:grey;
+  border-width:5px;
+  width:10%;
+}
+img{
+  border-radius:30%;
+}
+img:hover{
+  border-radius: 50px;
+  border: 2px solid;
+  border-color: red;
+}
